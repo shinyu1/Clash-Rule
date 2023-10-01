@@ -1,2 +1,2 @@
 # Clash-Rule
-sub.shinyu.cc
+https://sub.shinyu.cc

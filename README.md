@@ -1,2 +1,2 @@
 # Clash-Rule
-[地址](https://sub.shinyu.cc)
+[订阅转换地址](https://sub.shinyu.cc)

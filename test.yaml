@@ -40,7 +40,6 @@ proxy-providers:
     
 proxy-groups:
   - {name: 🔘 手动切换, proxies: [DIRECT], <<: *use}
-  - {name: ✈️自建节点, <<: *zijian}
   - {name: 🛸 IP归属地伪装, proxies: [🔘 手动切换, DIRECT], <<: *use}
   - {name: 🔎 Google, proxies: [🔘 手动切换, DIRECT], <<: *use}
   - {name: 🔎 Bing, proxies: [🔘 手动切换, DIRECT], <<: *use}
